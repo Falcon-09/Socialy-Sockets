@@ -1,6 +1,6 @@
 const io = require("socket.io")(8800, {
     cors: {
-      origin: "https://1-socialy-1.netlify.app",
+      origin: "https://socialy.vercel.app",
     },
   });
   
